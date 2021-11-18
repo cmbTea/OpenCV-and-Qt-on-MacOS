@@ -218,9 +218,8 @@ int main(int argc, const char * argv[]) {
 }
 ```
 
-<kbd>CMD</kbd> + <kbd>B</kbd>
 Press <kbd>CMD</kbd> + <kbd>B</kbd> to build it and <kbd>CMD</kbd> + <kbd>R</kbd> to run it:
 
-<img src="doc/18.png" width="55%"> 
+<img src="doc/18.png" width="25%"> 
 
 End it by pressing any key on the keyboard.
